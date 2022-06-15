@@ -1,2 +1,2 @@
 # TwitterLoginPage
-A clone of twitter login page with Html, Css and Bootstrap
+A clone of twitter login page with Html and Pure CSS
